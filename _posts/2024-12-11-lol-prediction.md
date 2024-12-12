@@ -5,7 +5,7 @@ title: 'League of Legends Match Outcome Prediction'
 date: 2024-12-11 15:00:00
 categories: development
 tags: Regression Python ML
-featured_image: '/img/posts/lol_project_page.png'
+featured_image: '{{ site.baseurl }}/img/posts/lol_project_page.png'
 project_link: 'https://ethancota.github.io/LOL-Match-Prediction'
 button_icon: 'github'
 button_text: 'Visit Project Page'

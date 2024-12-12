@@ -5,7 +5,7 @@ title: 'Review Data Classification'
 date: 2024-12-11 15:00:15
 categories: development
 tags: Classification ML Python
-featured_image: '/img/posts/rfk_model.png'
+featured_image: '{{ site.baseurl }}/img/posts/rfk_model.png'
 project_link: 'https://github.com/ethancota/Beer-Style-Classification'
 button_text: 'Visit Project'
 button_icon: 'Github'
