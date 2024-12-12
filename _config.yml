@@ -16,8 +16,8 @@
 title: "Hello. I'm Ethan Cota."
 email: 'ethanbcota@gmail.com'
 description: "I'm a student at UC San Diego studing Data Science."
-baseurl: "portfolio" # the subpath of your site, e.g. /blog
-url: "https://ethancota.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://ethancota.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'ethancota'
 github_username: 'ethancota'
 medium_username: 'blog.ethancota.com'
