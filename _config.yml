@@ -93,8 +93,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: 'Powered by Jekyll with Phantom template by Jamie Gibbs © 2024 Ethan Cota'
+admin_name: 'Ethan Cota'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
